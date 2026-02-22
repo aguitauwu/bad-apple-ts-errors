@@ -63,17 +63,4 @@ npx ts-node --skip-project play.ts bad_apple.ts 15
 |---|---|
 | `bad_apple.ts` | 2180 TypeScript type errors, one per frame |
 | `play.ts` | Compiler API player — extracts errors and renders them |
-| `convert.py` | Original script used to generate `bad_apple.ts` from `play.txt` |
-
 ---
-
-## Source
-
-ASCII frames sourced from [Chion82/ASCII_bad_apple](https://github.com/Chion82/ASCII_bad_apple).
-
----
-
-## License
-
-MIT — aguitauwu
-
